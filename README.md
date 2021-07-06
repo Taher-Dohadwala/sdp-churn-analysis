@@ -5,4 +5,4 @@ This project analyzes [Telecom Customer Churn Data](https://www.kaggle.com/abhin
 
 The data contains 100 features, with ~100k records.
 
-Download[data](https://www.kaggle.com/abhinav89/telecom-customer) from Kaggle
+Download [data](https://www.kaggle.com/abhinav89/telecom-customer) from Kaggle
