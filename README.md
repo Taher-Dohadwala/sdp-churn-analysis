@@ -15,7 +15,9 @@ Download [data](https://www.kaggle.com/abhinav89/telecom-customer) from Kaggle
 ## Cleaning
 - Memory usage was reduced by 80%
 - No duplicate records were found
-- Explored some of the cyptic category values
+- Explored some of the category values
+- 43 columns have some missing values
+    - 88% (38/43) contain a significant amount of missing data
 
 ## EDA
 
